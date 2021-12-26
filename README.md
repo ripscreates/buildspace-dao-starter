@@ -1,3 +1,7 @@
+DAO! Another great project by buildspace
+https://buildspace-dao-starter.ripscreates.repl.co/
+try it out... remember to switch to Rinkeby network.
+
 # buildspace x thirdweb - Build your own DAO with just Javascript
 
 ### **Welcome 👋**
